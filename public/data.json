@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "employeeId":"46240849",
+        "employeeName":"Taruni",
+        "age":"50",
+        "salary":85000,
+        "weight":"52kgs",
+        "sports":{
+            "sportName": "Cricket",
+            "achivements":"Skipper",
+            "matches":"213"
+        },
+        "offers":{
+            "membershipAmount" : 7000
+        }
+    },
+    {
+        "id":2,
+        "employeeId":"46240845",
+        "employeeName":"Vamsi",
+        "age":"30",
+        "salary":155000,
+        "weight":"70kgs",
+        "sports":{
+            "sportName": "Tennis",
+            "achivements":"Gold Medal",
+            "matches":"180"
+        },
+        "offers":{
+            "membershipAmount" : 1200
+        }
+    },
+    {
+        "id":3,
+        "employeeId":"46240846",
+        "employeeName":"Jyothi",
+        "age":"35",
+        "salary":105000,
+        "weight":"65kgs",
+        "sports":{
+            "sportName": "Hockey",
+            "achivements":"Historic victory",
+            "matches":"278"
+        },
+        "offers":{
+            "membershipAmount" : 1200
+        }
+    },
+    {
+        "id":4,
+        "employeeId":"46240847",
+        "employeeName":"Hiranmai",
+        "age":"62",
+        "salary":75000,
+        "weight":"65kgs",
+        "sports":{
+            "sportName": "volleyball",
+            "achivements":"Qualifier",
+            "matches":"250"
+        },
+        "offers":{
+            "membershipAmount" : 2000
+        }
+    },
+    {
+        "id":5,
+        "employeeId":"46240848",
+        "employeeName":"Ganesh",
+        "age":"70",
+        "salary":55000,
+        "weight":"55kgs",
+        "sports":{
+            "sportName": "Football",
+            "achivements":"Silver Medal",
+            "matches":"300"
+        },
+        "offers":{
+            "membershipAmount" : 2000
+        }
+    }
+]
